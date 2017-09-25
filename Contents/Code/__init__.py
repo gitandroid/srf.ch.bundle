@@ -38,7 +38,7 @@ def Start():
 
 def MainMenu():
 
-  oc = ProduceRss(title="TV-Sendungen")
+  oc = ProduceRss(title="SRF Podcasts")
 
   return oc
 ###################################################################################################
